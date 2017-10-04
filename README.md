@@ -16,7 +16,7 @@ One can be seen [here](http://uniqueclocks.co.uk/media/berlin~clock.jpg~1.gif)
 
 ## The brief
 
-We have created a number of acceptance tests for the Berlin Clock and your challenge is to get them passing. Additionally, please make sure your solution is accompanied by comments in any form that describe a step-by-step refactorings, so we can understand the way you were thinking.
+We have created a number of acceptance tests for the Berlin Clock and your challenge is to get them passing. Additionally, please make sure your solution has been covered by sufficient and well-naming unit tests.
 
 ## Some hints
 If you are new to Gradle, it may be worth spending 10 minutes reading a high level summary.  We are using the Gradle
